@@ -2,8 +2,8 @@
 
 ## Read me for the A star.py script 
 
-Python version: 3.10 
-Python numpy module 
+- Python version: 3.10 
+- Python numpy module 
 
 ## How to run the python script: 
 - open with any IDE or simply run with a terminal 
