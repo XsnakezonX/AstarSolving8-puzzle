@@ -1,13 +1,13 @@
 # AstartSolving8-puzzle
 
-##Read me for the A star.py script 
+## Read me for the A star.py script 
 
 Python version: 3.10 
 Python numpy module 
 
-##How to run the python script: 
+## How to run the python script: 
 - open with any IDE or simply run with a terminal 
-##Configuration: 
+## Configuration: 
 - There are 2 heuristic functions available to choose from in the prompt. 
 - Enter '1' to choose misplaced tile heuristic; 
 - Enter '2' to choose Manhattan distance heuristic; 
